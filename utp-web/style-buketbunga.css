@@ -1,0 +1,106 @@
+body{
+	background-color: white;
+	font-family:calibri;
+	color :white;
+}
+.login-body{
+	background-color: white;
+	font-family:calibri;
+	color :#afafaf;
+}
+.login-form{
+	border-radius: 5px;
+	width: 300px;
+	background-color: #edeee9;
+	padding: 30px;
+	margin:2px auto;
+}
+.login-in{
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 15px;
+	border: 1px solid #dddddd;
+	background-color: #e3ded8;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+.login-btnin{
+	border:3px solid #0bb08e;
+	background:#00ba9b;
+	width:100%;
+	padding: 10px;
+	font-weight:bold;
+	color:white;
+	border-radius: 5px;
+	margin-top: 8px;
+}
+
+.login-btnup{
+	display:block;
+	border:1px solid #0bb08e;
+	background:#ffffff;
+	padding: 7px;
+	font-weight:bold;
+	border-radius: 5px;
+	color:#0bb08e;
+	width:100%;
+      }
+.login-table{
+ 	width:300px;
+}
+a{
+	text-decoration: none;
+}
+.sidebar-a{
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+	size :12px;
+}
+.sidebar{
+  height: 100%;
+  background-color: #00ba9b;
+  width: 15%;
+  position: fixed!important;
+  z-index: 1;
+  overflow: auto;
+  color: #000!important;
+}
+.sidebar-h3{
+  margin-left: 10px;
+	text-align: center;
+	color: white;
+}
+.page-content{
+  margin-left: 15%;
+  background-color: #fff;
+
+}
+.content{
+	margin-left: 10px;
+  background-color: #fff;
+	color: black;
+}
+.profil-table{
+	color: black;
+}
+.order-table {
+	color: black;
+	border: 2px solid black;
+	width:100%;
+}
+.profil-btnin{
+	border:3px solid #0bb08e;
+	background:#00ba9b;
+	width:20%;
+	padding: 5px;
+	font-weight:bold;
+	color:white;
+	border-radius: 5px;
+	margin-top: 8px;
+}
+.header-h2{
+	background-color: #0bb08e;
+	text-align: center;
+}
